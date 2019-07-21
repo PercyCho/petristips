@@ -21,4 +21,6 @@ The controls are easy to memorize. They're super intutive.
 There is a next piece viewer. Use this to plan ahead. In future documents I will describe how to use the next piece viewer to help you in your game. There is also a held piece viewer where you can see your held piece, and I will describe how to use that to your benefit as well in future documents.
 Towards the bottom, there is a big button that says Information. You can click it and receive lots of information about the game, also written by me. I won't include it here because it's a bit lengthy.
 
+## Conclusion
+
 Well that's it for this document! I know it was short but there's really not a lot to cover. In future documents I will try to add more stuff so it's a bit more information. Otherwise, keep checking the PTR for new documents which should be coming out every few days!
