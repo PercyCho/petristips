@@ -1,0 +1,2 @@
+# pentristips
+Tips for pentris.
