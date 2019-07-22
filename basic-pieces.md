@@ -2,7 +2,7 @@
 
 ## Overview
 
-In Petris, there are 19 different pieces, and it's good to be familiar with all the pieces. There are 7 4-block pieces and 12 5-block pieces. In this section I will go over each of the pieces, but not how they work with each other, which will be covered in another file.
+In Petris, there are 24 different pieces, and it's good to be familiar with all the pieces. There are 7 4-block pieces and 17 5-block pieces. In this section I will go over each of the pieces, but not how they work with each other, which will be covered in another file.
 
 ## Piece list
 
@@ -62,5 +62,7 @@ As you play, you're going to like certain pieces and dislike others. If you have
   * W
   * N
   * H
+  * L
+  * J
   
   TODO: finish lol
