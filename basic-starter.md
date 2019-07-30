@@ -16,6 +16,19 @@ The most important thing to get used to on Petris is the controls. I've compiled
 
 The controls are easy to memorize. They're super intutive.
 
+## Line Points
+
+When you place a piece to finish one or more lines, you get a score. The more lines you finish at once, the more the points will be. Here is a list of the points that add to your score when you complete one or more lines at once.
+
+* 1 line = 40 points
+* 2 lines = 100 points
+* 3 lines = 300 points
+* 4 lines = 1200 points
+* 5 lines = 3000 points
+* 6 lines = ~9000 points (not yet possible)
+
+Because finishing more lines at once gets you more points, it's a reccomended strategy, but also a harder one. If you're just a beginner, don't try this strategy. Instead, try to learn all the different peices and how you can fit them together to finish single or double lines. More information about strategies will be discussed in a later document.
+
 ## Other things to note
 
 There is a next piece viewer. Use this to plan ahead. In future documents I will describe how to use the next piece viewer to help you in your game. There is also a held piece viewer where you can see your held piece, and I will describe how to use that to your benefit as well in future documents.
